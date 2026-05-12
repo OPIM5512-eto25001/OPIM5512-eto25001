@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Marisa 👋
 
-<!--
-**OPIM5512-eto25001/OPIM5512-eto25001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst and graduate student focused on using data, analytics, and machine learning to solve real-world business problems. In my role, I build predictive models, optimization tools, and data-driven applications based on operational and business needs.
 
-Here are some ideas to get you started:
+🎓 MSBAPM @ UConn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Business decision modeling with Python
+- Time series forecasting and predictive analytics
+- Text mining and natural language processing
+- Deep learning and machine learning techniques
+
+🐶 Outside of analytics, I love spending time with my dog and enjoying a good book.
