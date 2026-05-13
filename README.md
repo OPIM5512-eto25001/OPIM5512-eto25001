@@ -5,7 +5,7 @@
 </h2>
 
 <a href="https://www.linkedin.com/in/marisa-t-27818983/">
-  <p align="center"
+  <p> align="center"
   <img height="50" src="https://images.icon-icons.com/2828/PNG/512/linkedin_social_network_in_logo_icon_179745.png"/>
   </p>
 </a>
