@@ -10,4 +10,8 @@ I'm a data analyst and graduate student focused on using data, analytics, and ma
 - Text mining and natural language processing
 - Deep learning and machine learning techniques
 
-🐶 Outside of analytics, I love spending time with my dog and enjoying a good book.
+### Current Projects
+- Client target forecasting and lookback adjustment tool
+- Employee satisfaction survey response analysis with text mining
+
+🐶 Outside of analytics, I love hiking with my dog and enjoying a good book!
